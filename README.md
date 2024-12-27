@@ -15,13 +15,11 @@ Backend development expertise in data migration, healthcare solutions, and backe
   - AWS (Currently learning)
 
 ## 🌱 Currently Learning
-I believe in continuous learning to stay updated with the latest trends and technologies. Currently, I’m diving into **AWS (Amazon Web Services)** to enhance my skills in cloud computing and infrastructure management.
+I believe in continuous learning to stay updated with the latest trends and technologies. I’m currently diving into **AWS (Amazon Web Services)** to enhance my cloud computing and infrastructure management skills.
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
-Feel free to reach out if you'd like to collaborate, discuss development, or share knowledge!  
-  - Email: aayushichourasiyaa@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/aayushi-chourasiya/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushi-chourasiya/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushichourasiyaa@gmail.com)
 
-  
-Let's connect and build something awesome together! 😊
+Feel free to explore my repositories, reach out for the collaboration opportunities, or simply say hello—let's create something amazing together! 😊
