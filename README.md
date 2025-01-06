@@ -21,5 +21,6 @@ I believe in continuous learning to stay updated with the latest trends and tech
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushi-chourasiya/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushichourasiyaa@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-343230?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aayushichourasiya)
 
-Feel free to explore my repositories, reach out for the collaboration opportunities, or simply say hello—let's create something amazing together! 😊
+Feel free to explore my repositories, reach out for collaboration opportunities, or simply say hello—let's create something amazing together! 😊
